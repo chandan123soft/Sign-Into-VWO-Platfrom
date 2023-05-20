@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T13:05:45 IST" name="Suite" finished-at="2023-05-20T13:06:04 IST" duration-ms="18812">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T13:05:45 IST" name="Test" finished-at="2023-05-20T13:06:04 IST" duration-ms="18812">
+      <class name="VWO_Platfrom.LoginPage_To_VWO_Platfrom">
+        <test-method is-config="true" signature="navigateToTheURL()[pri:0, instance:VWO_Platfrom.LoginPage_To_VWO_Platfrom@49d3c823]" started-at="2023-05-20T13:05:14 IST" name="navigateToTheURL" finished-at="2023-05-20T13:05:45 IST" duration-ms="31220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTheURL -->
+        <test-method signature="loginCrenditial()[pri:0, instance:VWO_Platfrom.LoginPage_To_VWO_Platfrom@49d3c823]" started-at="2023-05-20T13:05:46 IST" name="loginCrenditial" finished-at="2023-05-20T13:06:04 IST" duration-ms="18171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCrenditial -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:VWO_Platfrom.LoginPage_To_VWO_Platfrom@49d3c823]" started-at="2023-05-20T13:06:05 IST" name="tearDown" finished-at="2023-05-20T13:06:08 IST" duration-ms="3893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- VWO_Platfrom.LoginPage_To_VWO_Platfrom -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
